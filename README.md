@@ -5,9 +5,9 @@ To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: Import the math module for square root
 ### Step 2: Define a function to calculate distance
-### Step 3:  Input the coordinates of the first point
-Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4:  Input the coordinates of the second point
+### Step 3:  Input the coordinates of the first point and second point
+
+### Step 4:  Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5:  Calculate and display the distance
 ### PROGRAM:
 ```
